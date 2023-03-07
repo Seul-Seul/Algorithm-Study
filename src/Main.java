@@ -1,3 +1,6 @@
+import unit1.CaseConversion;
+import unit1.FindChar;
+
 import java.util.*;
 public class Main {
     public static void main(String[] args) {

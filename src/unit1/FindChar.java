@@ -1,3 +1,5 @@
+package unit1;
+
 public class FindChar {
     public  int solution(String str, char t){
         int answer = 0;
