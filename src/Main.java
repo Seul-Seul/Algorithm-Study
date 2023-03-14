@@ -1,13 +1,10 @@
-import DoIt.DataStructure.Q3;
-import unit1.CaseConversion;
+import DoIt.DataStructure.Q7;
 
 import java.io.IOException;
-import java.util.*;
+
 public class Main {
     public static void main(String[] args) throws IOException {
-        Q3 q3 = new Q3();
-
-        System.out.println("Q3");
-        q3.Q3();
+        Q7 q7 = new Q7();
+        q7.solution();
     }
 }

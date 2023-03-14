@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 public class Q3 {
      /*구간 합 구하기(백준11659) , 시간제한 0.5초*/
-     public void Q3() throws IOException {
+     public void solution() throws IOException {
           BufferedReader bufferedReader =
                new BufferedReader(new InputStreamReader(System.in));
 
